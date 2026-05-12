@@ -1,0 +1,8 @@
+*.mp4
+*.avi
+*.pkl
+*.pt
+data/
+models/
+paper_figures/
+__pycache__/
